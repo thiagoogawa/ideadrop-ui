@@ -3,7 +3,11 @@
 This is the frontend to the IdeaDrop application from BradTraversy React course.
 It uses React, TanStack Router, and TanStack Query.
 
-<img src="./public/screen.png" width="600" />
+
+
+https://github.com/user-attachments/assets/6a3245bb-64f5-4b28-82b1-0645a3b03e81
+
+
 
 ## Features
 
